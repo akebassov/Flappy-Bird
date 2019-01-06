@@ -1,0 +1,2 @@
+#Flappy Bird# 
+was a side-scrolling mobile game featuring 2D retro style graphics. The objective was to direct a flying bird, named "Faby",[6] who moves continuously to the right, between sets of Mario-like pipes.
